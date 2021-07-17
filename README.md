@@ -61,8 +61,11 @@ Video Standard: PAL
 Input: 4
 ```
 
+<<<<<<< HEAD
 5) Abschließen des Vorgangs mit 'Play'
 
+=======
+>>>>>>> adca9d750263549e5efa0de87a84d9d7ec4f4a20
 Info: Das Abspielen des Videos muss am Videorekorder manuell vorgenommen werden.
       VLC Media Player zeigt nur die Signale an, die der VHS-Rekorder ausgibt.
 
