@@ -64,7 +64,7 @@ Aufnahme zu starten und erst danach das Videos über den VHS-Rekorder abzuspiele
 sodass das kompletten Video aufgezeichnet wird. Und natürlich sollte man auch
 die Videokassette zurückspulen, bevor man aufzeichnet.
 
-## Tested Environment
+## Getestete Umgebung / Geräte
 
 ```text
 OS: Ubuntu 20.04
