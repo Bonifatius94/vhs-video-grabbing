@@ -10,7 +10,7 @@ Zur Anbindung des VHS-Rekorders an den PC sind folgende Schritte notwendig:
 
 ## Anzeigesoftware Installieren
 Zum Abspielen und Aufzeichnen von VHS-Videos wird der VLC Media Player empfohlen.
-Er kann unter Ubuntu mit folgende Befehlen installiert werden:
+Er kann unter Ubuntu mit folgenden Befehlen installiert werden:
 
 ```sh
 # install the VLC media player
@@ -21,7 +21,7 @@ sudo apt-get update && sudo apt-get install -y vlc
 ```
 
 ## Video Abspielen
-Zum Abspielen von VHS-Videos müssen folgende Einstellungne vorgenommen werden:
+Zum Abspielen von VHS-Videos müssen folgende Einstellungen vorgenommen werden:
 
 1) VLC Player öffnen
 2) Media -> Open Capture Device
@@ -60,8 +60,8 @@ Destination File: use 'Browse' to choose a proper file path
 
 Nachdem die gewünschten Einstellungen gewählt wurden, kann mit der Schaltfläche
 'Start' die Aufzeichnung gestartet werden. Hierbei ist es ratsam, zuerst die
-Aufnahme zu starten und erst danach das Videos über den VHS-Rekorder abzuspielen,
-sodass das kompletten Video aufgezeichnet wird. Und natürlich sollte man auch
+Aufnahme zu starten und erst danach das Video über den VHS-Rekorder abzuspielen,
+sodass das komplette Video aufgezeichnet wird. Und natürlich sollte man auch
 die Videokassette zurückspulen, bevor man aufzeichnet.
 
 ## Getestete Umgebung / Geräte
