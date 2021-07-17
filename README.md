@@ -55,7 +55,7 @@ Audio Device Name: hw:1,0
 Video Standard: PAL
 ```
 
-4) Unter "Advanced Options" folgende Einstellung zusätzliche vornehmen (nur für S-Video):
+4) Unter "Advanced Options" folgende zusätzliche Einstellung vornehmen (nur für S-Video):
 
 ```text
 Input: 4
